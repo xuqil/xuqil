@@ -4,9 +4,9 @@
 <p>Welcome to my page! </br> I'm QiLong Xu, Back-end developer from <b>China Shenzhen</b>, currently living in <b>Shenzhen</b>. </p>
 <h3>Things I code with</h3>
 <p>
-  <img alt="Go" src="https://img.shields.io/badge/-Go-45b8d8?style=flat-square&logo=go&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="Gin" src="https://img.shields.io/badge/-Gin-45b8d8?style=flat-square&logo=go&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-430098?style=flat-square&logo=Flask&logoColor=white" />
   <img alt="Fastapi" src="https://img.shields.io/badge/-Fastapi-430098?style=flat-square&logo=Fastapi&logoColor=white" />
   <img alt="F5" src="https://img.shields.io/badge/-F5-E4002B?style=flat-square&logo=F5&logoColor=white" />
