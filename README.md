@@ -30,6 +30,13 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/xuqil/observability"><b>可观测性的使用</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/xuqil/observability?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/xuqil/observability?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/xuqil/observability?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/xuqil/observability?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/xuqil/redis-lock"><b>redis-lock</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/xuqil/redis-lock?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/xuqil/redis-lock?style=flat-square&labelColor=343b41"/></td>
@@ -49,13 +56,6 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/xuqil/KubeOps?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/xuqil/KubeOps?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/xuqil/KubeOps?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/xuqil/KubeOps-Vue"><b>KubeOps 运维管理平台前端</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/xuqil/KubeOps-Vue?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/xuqil/KubeOps-Vue?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/xuqil/KubeOps-Vue?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/xuqil/KubeOps-Vue?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
