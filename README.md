@@ -30,6 +30,13 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/xuqil/zk-lock"><b>zk-lock</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/xuqil/zk-lock?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/xuqil/zk-lock?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/xuqil/zk-lock?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/xuqil/zk-lock?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/xuqil/observability"><b>可观测性的使用</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/xuqil/observability?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/xuqil/observability?style=flat-square&labelColor=343b41"/></td>
@@ -61,6 +68,7 @@
 </table>
 <h3>My latest posts</h3>
 <ul>
+  <li><a href="https://xuqilong.top/pages/a513ae"><b> Gin 接入 OpenTelemetry 和 Prometheus.</b></a><br/><i> Gin 接入 OpenTelemetry 和 Prometheus。</i></li>
   <li><a href="https://xuqilong.top/pages/d4f1fc/"><b> 深入理解 channel.</b></a><br/><i>学习和运用 
   Go channel 的基本使用。</i></li>
   <li><a href="https://xuqilong.top/pages/134263/#%E4%BB%80%E4%B9%88%E6%98%AF-sso"><b> SSO实战.</b></a><br/><i>在实战中学习和运用 SSO（Single sign-on，单点登录）。</i></li>
